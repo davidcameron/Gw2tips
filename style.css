@@ -1,0 +1,42 @@
+	body {
+		font-family:"cronos-pro", sans-serif;
+		font-size:1.4em;
+	}
+	
+	footer {
+		font-size:.8em;
+		color:rgb(100,100,100);
+	}
+	
+	h1,h2,h3,h4,h5,h6 {
+		font-weight:300;
+		font-style:normal;
+	}
+	
+	p {
+		line-height:1.5em;
+	}
+	
+	code, .code {
+		background-color:rgb(230,230,230);
+		padding:0 5px;
+		border:dashed rgb(150,150,150) 1px;
+		font-family:monospace;
+	}
+	
+	#container {
+		width:900px;
+		margin:0 auto;
+	}
+	
+	span.gw2tip {
+		background-image:url("http://www.ledgit.com/gw2tips/tip-background.png");
+		-webkit-background-size:cover;
+		color:white;
+		padding: 0 10px;
+		cursor:pointer;
+	}
+	
+	.strike {
+		text-decoration: line-through;
+	}
